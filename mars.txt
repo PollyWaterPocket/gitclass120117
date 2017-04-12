@@ -3,7 +3,4 @@ Another line
 and yet another
 mroe lines
 
-Another file
-
-
-More info
+Too much info!
